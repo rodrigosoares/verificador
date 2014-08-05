@@ -17,7 +17,7 @@ Requer a linguagem Ruby instalada para ser executada.
 * Gera um arquivo textual com os resultados e outro arquivo com as longitudes e respectivas ocorrências.
 * Desenvolvida na linguagem Ruby versão 1.9.3.
 
-##Bibliotecas de Terceiros
+##Bibliotecas de terceiros
 
 Esta ferramenta usa uma biblioteca chamada Geocoder, que pode ser encontrada [aqui](http://www.rubygeocoder.com/).
 
