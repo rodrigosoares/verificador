@@ -14,6 +14,7 @@ Requer a linguagem Ruby instalada para ser executada.
 
 * Extrai o total de requisições, a média diária, o total de requisições GET, HEAD e POST e as páginas solicitadas.
 * Execução via console.
+* Analisa apenas as requisições com código de status 400, 401, 403 e 404.
 * Gera um arquivo textual com os resultados e outro arquivo com as longitudes e respectivas ocorrências.
 * Desenvolvida na linguagem Ruby versão 1.9.3.
 
